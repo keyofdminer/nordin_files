@@ -1,27 +1,25 @@
-
-
+Screws	
 	4 M2.5 10mm screws for rpi
 	4 M2.5 10mm screws for rpi
 	2 M2.5 8mm screws for xlr
 	10 M2.5 nuts
 
-	2 M3 5mm screws for 24v
-	2 M3 5mm screws for 5v
-	4 M3 6mm screws for 12v supply
-	24 M3 9mm screws
-	24 M3 9mm screws
-	4 M3 10mm screws for tip tilt
-	4 M3 10mm screws for relays
-	4 M3 10mm screws for newmark control
-	4 M4 10mm screws for fan
-	4 M4 10mm screws for galil controller
+	4 M3 5mm screws for 
+		2 24v supply
+		2 5v supply
+	4 M3 6mm screws for 
+		12v supply
+	48 M3 9mm screws
+		enclosures
+	20 M3 10mm screws for 
+		4 tip tilt
+		4 relays
+		4 newmark control
+		4 fan
+		4 galil controller
+	86 M3 nuts
 
-	24 M3 nuts
-	24 M3 nuts
-	20 M3 nuts
-
-	2 screws 4-40? 8mm (6mm standoffs) and nuts for DB25
-	8 screws 4-40? 8mm (6mm standoffs) and nuts for DB9s
+	10 screws 4-40? 8mm (6mm standoffs) and nuts for DB connectors
 
 Calibration Control System
 	Serial cords
@@ -40,11 +38,35 @@ Newmark Board
 	2 3 pin locking
 	2 4 pin locking housing
 	2 2 pin locking housing
-	14 locking pins
+	36 locking pins for 
+		14 newmark
+		22 tt
 	4 10k ohm resistors
 	6 8 pin headers
 	2 6 pin headers
 
 HR3.3
-	
-	
+	2x 3.5 barrel
+	3x2 molex housing
+	4 molex pins
+	7 wire nuts
+
+Wiring
+	16 awg
+		mains
+			3' green black and white
+		12v
+			3.5' red black and green
+	20 awg
+		tt
+			2x 8” 2 conductor wire
+			2x 8” 4 conductor wire
+			2x 8” 5 conductor wire
+
+		solenoids
+			1' red and black
+		thorlabs
+			2.5' yellow and black
+	26 awg
+		i2c
+			20" 3 colors
