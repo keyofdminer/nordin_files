@@ -1,0 +1,50 @@
+
+
+	4 M2.5 10mm screws for rpi
+	4 M2.5 10mm screws for rpi
+	2 M2.5 8mm screws for xlr
+	10 M2.5 nuts
+
+	2 M3 5mm screws for 24v
+	2 M3 5mm screws for 5v
+	4 M3 6mm screws for 12v supply
+	24 M3 9mm screws
+	24 M3 9mm screws
+	4 M3 10mm screws for tip tilt
+	4 M3 10mm screws for relays
+	4 M3 10mm screws for newmark control
+	4 M4 10mm screws for fan
+	4 M4 10mm screws for galil controller
+
+	24 M3 nuts
+	24 M3 nuts
+	20 M3 nuts
+
+	2 screws 4-40? 8mm (6mm standoffs) and nuts for DB25
+	8 screws 4-40? 8mm (6mm standoffs) and nuts for DB9s
+
+Calibration Control System
+	Serial cords
+		4 DB-9 Extentions
+		-or-
+		2 DB-9 Male to male
+		2 DB-9 Female to female
+	1 HDMI cord
+	1 Fuse holder
+	2 2A 120V fuses
+	
+Newmark Board
+	17 Schotkey diodes
+	1 100 um cap
+	2 4 pin locking
+	2 3 pin locking
+	2 4 pin locking housing
+	2 2 pin locking housing
+	14 locking pins
+	4 10k ohm resistors
+	6 8 pin headers
+	2 6 pin headers
+
+HR3.3
+	
+	
