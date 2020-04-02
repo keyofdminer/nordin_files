@@ -1,0 +1,40 @@
+Loadcell
+	12V power [4.5 mm]
+		(20 awg)
+		(unconnected currently)
+
+Thorlabs
+	15V power [4.5 mm]
+		(20 awg)
+		1’ 2 conductor 3.5 - 3.5
+		1.5’ 2 conductor wire - wire
+
+Visitech
+	12V power [x]
+		(16 awg) 
+		1.5’ 3 conductor xlr - xlr
+		2’ conductor wire - wire
+	I2C [2 mm]
+		(26 awg)
+		1’ 3 conductor i2c - i2c
+		8” 3 conductor wire - molex
+		
+
+Solenoids
+	2 M12A [4.5 mm]
+		(20 awg)
+		terminate nema connectors
+		2x 6” 2 conductor wire
+
+Tip/Tilt
+	DB25 [x]
+		(20 awg)
+		terminate existing with db25
+		2x 8” 2 conductor wire - locking molex
+		2x 8” 4 conductor wire - locking molex
+		2x 8” 5 conductor wire - locking molex
+
+Mains
+	(16 awg)
+	7 wire nuts
+	3’ of green, black, and white
