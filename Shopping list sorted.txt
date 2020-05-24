@@ -69,4 +69,4 @@ Wiring
 			2.5' yellow and black
 	26 awg
 		i2c
-			20" 3 colors
+			20" cat5e
