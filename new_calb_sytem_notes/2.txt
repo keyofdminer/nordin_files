@@ -1,0 +1,36 @@
+Printer Selection GUI
+	List of printers (Split up by model)
+	Dummy Printer
+	Reload Button
+Main Screen
+	Sub menus
+	Quit
+		Back to printer selection
+		Quit to desktop
+Calibration Screen
+	Full calibration with prompts
+	1) Camera to film
+	2) Projector to camera
+	3) Projector to film
+Manual Control Screen
+	Joystick Control
+	Goto Top
+	Snap to focus
+	Autofocus
+	Capture Image
+	Projector off
+	Ring LED on
+	HR4
+		Swap LE
+		Move LE
+	MR1.1
+		Move LE
+Data Collection Screen
+	PIR
+	Light Engine Irradiance
+	Light Engine Focus
+
+
+
+Do every routine in a try catch block
+	If catches special exception, revert and end routine

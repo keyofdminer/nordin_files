@@ -1,0 +1,16 @@
+	In galil stage controls
+		Add toggle between visitech, wintech, v_keyence, w_keyence, and absolute coodinate systems
+			Updates positions on X, Y, and focus stages
+
+
+	keyence manual controls
+		Add readout for current reading
+		Add focus setpoint
+		-- If we can get more data from the keyence, expand this --
+
+
+
+
+TODO today
+	Write tutorial on making new hardware
+	Write tutorial on making new printer

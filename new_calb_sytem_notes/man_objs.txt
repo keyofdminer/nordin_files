@@ -1,0 +1,32 @@
+save-img-btn		button
+newmark-up-btn		button	*
+newmark-left-btn	button	*
+newmark-right-btn	button	*
+newmark-down-btn	button	*
+galil-up-btn		button	*
+galil-down-btn		button	*
+
+exposure-txt		box
+aoi-x-txt		box
+aoi-y-txt		box
+newmark-speed-txt	box
+galil-speed-txt		box
+
+camera-preset-btn	options
+newmark-preset-btn	options
+galil-preset-btn	options
+
+newmark-speed		switch
+galil-speed		switch
+ring-light		switch
+
+aoi-menu-button		popup
+
+exposure-state		label
+
+
+
+
+
+
+
